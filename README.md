@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para estruturar o conteúdo e refinar minhas ideias sobre c
 ## 🚀 Resultados
 O e-book apresenta um conteúdo simples e prático para os iniciantes que desejam utilizar a Inteliência Artifical com prompts poderosos.
 
-[LINK PARA O E-BOOK AQUI]()
+[ebook_Prompts Poderosos.pdf]()
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
